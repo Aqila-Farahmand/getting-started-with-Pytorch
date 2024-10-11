@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aqila</h1>
 <h3 align="center">MSc student in Computer Scince</h3>
 
-- 🔭 I’m currently working on **My Master Thesis**
+- 🔭 I’m currently learning **Machine Learning** and **Data Science**
 
 - 👯 I’m looking to collaborate on **ML and Data Analytics Project**
 
