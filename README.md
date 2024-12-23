@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aqila</h1>
-<h3 align="center">Specializing in ML and AI</h3>
 
 - 🔭 I’m currently learning **Machine Learning** and **Data Science**
 
